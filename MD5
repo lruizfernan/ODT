@@ -1,0 +1,45 @@
+93a71f5c63b35b34a609f0541f877c84 *DESCRIPTION
+08efddc85d1eee01c185f4f0252cf331 *NAMESPACE
+de62726a9b2a02768f06cd3d079ca141 *NEWS.md
+3b52b6157daeed7ba2e4d02a669c8f78 *README.md
+71c3e5784d2fa12696c5b6cc9241474b *inst/CITATION
+
+9ad72749c27ad734745f1c17f1bebe33 *R/AuxFunctions.R
+f8b1abda5c3306964a934c43127377cb *R/predictTree.R
+4f82ca6998f9a9e8feb039bdcea144df *R/niceTree.R
+74f3ac88b7c62f89520630e440cd40e7 *R/trainTree.R
+
+
+c0deae68d0d820d40a9a205b3a71bf7a *build/vignette.rds
+
+e1cac4b2aaa821834b23fa635b5fe0c8 *data/expression_w12.rda
+bb2cb81f983f1e30d16ebc0198add6d7 *data/expression_w34.rda
+bd929b4e91a2d4ed05b78f679c54cc33 *data/mutations_w34.rda
+e76fb98a96455db72df8695a976f4151 *data/mutations_w12.rda
+26e7cf022394b339ed0f41b634e6a37f *data/drug_response_w12.rda
+8f4a0fc14a0c6e3fc665b2f9787d48d1 *data/drug_response_w34.rda
+
+fd28d93881019535601a8f73f717453d *doc/ODT.R
+ef3cd03cb7b6e8da183b4e9b7b5bd6b3 *doc/ODT.Rmd
+7db77ea23065382dc93c4ae8693e26ed *doc/ODT.html
+
+
+79c5c3577995b39a83779f9f5a055aa0 *man/trainTree.Rd
+a7cd2dc92ee189dc8975f3763b9b5987 *man/predictTree.Rd
+57f337c99cf7c0daf2019e44f961b023 *man/niceTree.Rd
+ea6b07b7de820981f8369a953df79793 *man/InternalFunctions.Rd
+e0c85150e55fa431a7de7dd5535c6141 *man/expression_w12.Rd
+1b6cd4ade0655ffddcc30c6734610627 *man/expression_w34.Rd
+4e28b394da5f943df11cf876162b35a4 *man/drug_response_w34.Rd
+f68117d2afc92f67c0e1613e3634d104 *man/drug_response_w12.Rd
+cb9c2fd2d4202339386f143d25e524c5 *man/mutations_w12.Rd
+97933eb46c87be29b33fc1f2c2c1ece6 *man/mutations_w34.Rd
+
+
+628540f032a55564cb826f9335162f47 *vignettes/theprocess.png
+d157a1d0028291afcbf70b8ef6d9b35c *vignettes/MutationalExample.png
+0508bc4001270e9b0cb0eeacfe9ef6e5 *vignettes/Data_loaded.RData 
+260dc45267deae974497ca638e68fa92 *vignettes/ODT.R
+f078a07d62b2f826fbd93062420ae2c6 *vignettes/ODT.Rmd
+3ad7ce9b0b04050472a83aac2c836ae0 *vignettes/vignette.conf
+

@@ -1,0 +1,21 @@
+Package: ODT
+Type: Package
+Title: Assign Optimal Treatment To Each Pacient
+Version: 0.3.1
+Author: Maddi Eceiza, Lucia Ruiz
+Maintainer: John Doe <john.doe@example.com>
+Description: An optimized model for assigning optimal treatment to each patient.  
+Depends: R (>= 4.0), matrixStats, partykit, data.tree, stats
+Imports: magick, DiagrammeRsvg, BiocManager, knitr
+Suggests:BiocStyle, BiocGenerics, RUnit, Matrix, rmarkdown, robustbase, DiagrammeR
+License: Artistic-2.0
+LazyData: true
+LazyDataCompression: xz
+RoxygenNote: 7.3.1
+Encoding: UTF-8
+biocViews: mutex
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2024-04-14 10:35:54 UTC; lruizfernan
+Repository: CRAN
+Date/Publication: 
